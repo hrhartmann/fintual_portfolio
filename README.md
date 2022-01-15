@@ -2,7 +2,9 @@
 
 ### By Hans Hartmann
 
-## This project is an Apply assignment for Fintual.
+This project is an Apply assignment for Fintual.
+
+## The program
 
 The main.py file contains the menu and it needs to be executed with python to work.
 
